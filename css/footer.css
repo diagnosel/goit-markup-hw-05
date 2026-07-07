@@ -58,7 +58,7 @@
 }
 
 .footer-subscribe {
-  margin-left: 80px;
+  margin-left: auto;
 }
 
 .footer-subscribe-text {
@@ -96,7 +96,7 @@
 }
 
 .footer-subscribe-input:focus {
-  border-color: var(--primary-brand);
+  border-color: var(--success);
 }
 
 .footer-subscribe-button {
@@ -120,7 +120,7 @@
 
 .footer-subscribe-button:hover,
 .footer-subscribe-button:focus {
-  background-color: var(--pressed-state);
+  background-color: var(--success);
 }
 
 .footer-subscribe-icon {
